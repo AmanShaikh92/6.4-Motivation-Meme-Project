@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: black;
+}
+#A{
+    
+    border: 5px solid white;
+    margin-top: 50px;
+    margin-left: 350px;
+    
+}
+#B{
+    margin-top: 20px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    /* margin-left: 550px; */
+    text-align: center;
+}
